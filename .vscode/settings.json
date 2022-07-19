@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "hash_map": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "str.h": "c",
+        "windows.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "array": "c"
+    }
+}
