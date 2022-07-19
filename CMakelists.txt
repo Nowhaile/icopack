@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.2)
+project (icopack)
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/)
+
+add_executable(icopack app/endian.c app/message.c app/file.c app/str.c app/main.c)
